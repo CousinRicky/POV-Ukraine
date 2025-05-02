@@ -38,7 +38,7 @@ A POV-Ray implementation of the Ukrainian trident (тризуб) and colors.
 
 ## Pigment
 
-Ukr_p_Small_Arms - a yellow Ukrainian trident on a blue background. This is an object pigment, with the trident −1 to +1 deep in the *z* direction.
+`Ukr_p_Small_Arms` - a yellow Ukrainian trident on a blue background. This is an object pigment, with the trident −1 to +1 deep in the *z* direction.
 
 ## Sources
 
